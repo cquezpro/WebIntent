@@ -6,7 +6,7 @@
     id="com.kazakov.webintent"
     version="0.2.1">
     <name>WebIntent</name>
-    <description>Web Intent Plugin</description>
+    <description>Web Intent Plugin Test</description>
     <license>Apache 2.0</license>
     <keywords>cordova,webintent</keywords>
 
