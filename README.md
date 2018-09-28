@@ -1,5 +1,5 @@
 # WebIntents plugin for Phonegap #
-By Boris Smus
+By Sirius
 
 ## Adding the Plugin to your project ##
 1. To install the plugin, move webintent.js to your project's www folder and include a reference to it in your html files. 
