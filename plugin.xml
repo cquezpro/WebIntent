@@ -14,7 +14,7 @@
         <clobbers target="WebIntent" />
     </js-module>
 
-    <!-- android -->
+    <!-- android 1 -->
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="WebIntent" >
